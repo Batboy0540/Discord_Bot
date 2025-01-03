@@ -1,0 +1,18 @@
+# Virtuaaliympäristöt
+myenv/
+env/
+*.env
+
+# Python välimuistitiedostot
+__pycache__/
+*.pyc
+
+# Tietokannat
+*.db
+
+# Editorin ja IDE:n tiedostot
+.vscode/
+.idea/
+
+# Muut
+*.log
