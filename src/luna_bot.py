@@ -9,6 +9,8 @@ from discord import FFmpegPCMAudio
 from googlesearch import search
 import random
 import logging
+import nacl
+
 
 # Lataa ympäristömuuttujat
 load_dotenv()
